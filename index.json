@@ -1,0 +1,308 @@
+{
+	"meta": {
+		"name": "《連日本人都驚呆的日文單字心智地圖》",
+		"year": 2017,
+		"version": 1,
+		"media_dir": "media"
+	},
+	"headwords": {
+		"りんご": [
+			"017_01.ogg"
+		],
+		"レンブ": [
+			"017_02.ogg"
+		],
+		"いちご": [
+			"017_03.ogg"
+		],
+		"トマト": [
+			"017_04.ogg"
+		],
+		"ラズベリー": [
+			"017_05.ogg"
+		],
+		"クランベリー": [
+			"017_06.ogg"
+		],
+		"桃": [
+			"017_07.ogg"
+		],
+		"スイカ": [
+			"017_08.ogg"
+		],
+		"オレンジ": [
+			"017_09.ogg"
+		],
+		"パパイヤ": [
+			"017_10.ogg"
+		],
+		"柿": [
+			"017_11.ogg"
+		],
+		"みかん": [
+			"017_12.ogg"
+		],
+		"ビワ": [
+			"017_13.ogg"
+		],
+		"グレープフルーツ": [
+			"017_14.ogg"
+		],
+		"レモン": [
+			"017_15.ogg"
+		],
+		"バナナ": [
+			"017_16.ogg"
+		],
+		"パイナップル": [
+			"017_17.ogg"
+		],
+		"マンゴー": [
+			"017_18.ogg"
+		],
+		"ドリアン": [
+			"017_19.ogg"
+		],
+		"文旦": [
+			"017_20.ogg"
+		],
+		"梨": [
+			"017_21.ogg"
+		],
+		"スターフルーツ": [
+			"017_22.ogg"
+		],
+		"ライム": [
+			"017_23.ogg"
+		],
+		"キウイ": [
+			"017_24.ogg"
+		],
+		"メロン": [
+			"017_25.ogg"
+		],
+		"マスクメロン": [
+			"017_26.ogg"
+		],
+		"マスカット": [
+			"017_27.ogg"
+		],
+		"アボカド": [
+			"017_28.ogg"
+		],
+		"青りんご": [
+			"017_29.ogg"
+		],
+		"ココナッツ": [
+			"017_30.ogg"
+		],
+		"ぶどう": [
+			"017_31.ogg"
+		],
+		"ブルーベリー": [
+			"017_32.ogg"
+		],
+		"クワの実": [
+			"017_33.ogg"
+		],
+		"ナツメ": [
+			"017_34.ogg"
+		],
+		"パッションフルーツ": [
+			"017_35.ogg"
+		],
+		"マンゴスチン": [
+			"017_36.ogg"
+		],
+		"ライチ": [
+			"017_37.ogg"
+		]
+	},
+	"files": {
+		"017_01.ogg": {
+			"kana_reading": "リンゴ",
+			"pitch_pattern": "リンゴ",
+			"pitch_number": "1"
+		},
+		"017_02.ogg": {
+			"kana_reading": "レンブ",
+			"pitch_pattern": "レンブ",
+			"pitch_number": "1"
+		},
+		"017_03.ogg": {
+			"kana_reading": "いちご",
+			"pitch_pattern": "いち＼ご",
+			"pitch_number": "1"
+		},
+		"017_04.ogg": {
+			"kana_reading": "トマト",
+			"pitch_pattern": "トマ＼ト",
+			"pitch_number": "1"
+		},
+		"017_05.ogg": {
+			"kana_reading": "ラズベリー",
+			"pitch_pattern": "ラズ＼ベリー",
+			"pitch_number": "1"
+		},
+		"017_06.ogg": {
+			"kana_reading": "クランベリー",
+			"pitch_pattern": "クラン＼ベリー",
+			"pitch_number": "1"
+		},
+		"017_07.ogg": {
+			"kana_reading": "もも",
+			"pitch_pattern": "もも",
+			"pitch_number": "1"
+		},
+		"017_08.ogg": {
+			"kana_reading": "スイカ",
+			"pitch_pattern": "スイカ",
+			"pitch_number": "1"
+		},
+		"017_09.ogg": {
+			"kana_reading": "オレンジ",
+			"pitch_pattern": "オ＼レンジ",
+			"pitch_number": "1"
+		},
+		"017_10.ogg": {
+			"kana_reading": "パパイヤ",
+			"pitch_pattern": "パパイ＼ヤ",
+			"pitch_number": "1"
+		},
+		"017_11.ogg": {
+			"kana_reading": "カキ",
+			"pitch_pattern": "カキ",
+			"pitch_number": "1"
+		},
+		"017_12.ogg": {
+			"kana_reading": "ミカン",
+			"pitch_pattern": "ミ＼カン",
+			"pitch_number": "1"
+		},
+		"017_13.ogg": {
+			"kana_reading": "ビワ",
+			"pitch_pattern": "ビワ",
+			"pitch_number": "2"
+		},
+		"017_14.ogg": {
+			"kana_reading": "グレープフルーツ",
+			"pitch_pattern": "グレープフルーツ",
+			"pitch_number": "1"
+		},
+		"017_15.ogg": {
+			"kana_reading": "レモン",
+			"pitch_pattern": "レモン",
+			"pitch_number": "1"
+		},
+		"017_16.ogg": {
+			"kana_reading": "バナナ",
+			"pitch_pattern": "バナナ",
+			"pitch_number": "1"
+		},
+		"017_17.ogg": {
+			"kana_reading": "パイナップル",
+			"pitch_pattern": "パイナップル",
+			"pitch_number": "1"
+		},
+		"017_18.ogg": {
+			"kana_reading": "マンゴー",
+			"pitch_pattern": "マンゴー",
+			"pitch_number": "1"
+		},
+		"017_19.ogg": {
+			"kana_reading": "ドリアン",
+			"pitch_pattern": "ドリアン",
+			"pitch_number": "1"
+		},
+		"017_20.ogg": {
+			"kana_reading": "ブンタン",
+			"pitch_pattern": "ブンタン",
+			"pitch_number": "1"
+		},
+		"017_21.ogg": {
+			"kana_reading": "ナシ",
+			"pitch_pattern": "ナシ",
+			"pitch_number": "1"
+		},
+		"017_22.ogg": {
+			"kana_reading": "スターフルーツ",
+			"pitch_pattern": "スターフルーツ",
+			"pitch_number": "1"
+		},
+		"017_23.ogg": {
+			"kana_reading": "ライム",
+			"pitch_pattern": "ライム",
+			"pitch_number": "1"
+		},
+		"017_24.ogg": {
+			"kana_reading": "キウイ",
+			"pitch_pattern": "キウイ",
+			"pitch_number": "1"
+		},
+		"017_25.ogg": {
+			"kana_reading": "メロン",
+			"pitch_pattern": "メロン",
+			"pitch_number": "1"
+		},
+		"017_26.ogg": {
+			"kana_reading": "マスクメロン",
+			"pitch_pattern": "マスクメロン",
+			"pitch_number": "1"
+		},
+		"017_27.ogg": {
+			"kana_reading": "マスカット",
+			"pitch_pattern": "マスカット",
+			"pitch_number": "1"
+		},
+		"017_28.ogg": {
+			"kana_reading": "アボカド",
+			"pitch_pattern": "アボカド",
+			"pitch_number": "1"
+		},
+		"017_29.ogg": {
+			"kana_reading": "アオリンゴ",
+			"pitch_pattern": "アオリンゴ",
+			"pitch_number": "1"
+		},
+		"017_30.ogg": {
+			"kana_reading": "ココナッツ",
+			"pitch_pattern": "ココナッツ",
+			"pitch_number": "1"
+		},
+		"017_31.ogg": {
+			"kana_reading": "ブドウ",
+			"pitch_pattern": "ブドウ",
+			"pitch_number": "1"
+		},
+		"017_32.ogg": {
+			"kana_reading": "ブルーベリー",
+			"pitch_pattern": "ブルーベリー",
+			"pitch_number": "1"
+		},
+		"017_33.ogg": {
+			"kana_reading": "クワノミ",
+			"pitch_pattern": "クワノミ",
+			"pitch_number": "1"
+		},
+		"017_34.ogg": {
+			"kana_reading": "ナツメ",
+			"pitch_pattern": "ナツメ",
+			"pitch_number": "1"
+		},
+		"017_35.ogg": {
+			"kana_reading": "パッションフルーツ",
+			"pitch_pattern": "パッションフルーツ",
+			"pitch_number": "1"
+		},
+		"017_36.ogg": {
+			"kana_reading": "マンゴスチン",
+			"pitch_pattern": "マンゴスチン",
+			"pitch_number": "1"
+		},
+		"017_37.ogg": {
+			"kana_reading": "ライチ",
+			"pitch_pattern": "ライチ",
+			"pitch_number": "1"
+		}
+	}
+}
