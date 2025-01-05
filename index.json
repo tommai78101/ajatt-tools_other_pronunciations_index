@@ -224,6 +224,102 @@
 		],
 		"ミョウガ": [
 			"019_36.ogg"
+		],
+		"豚ヒレ肉": [
+			"021_01.ogg"
+		],
+		"豚モモ肉": [
+			"021_02.ogg"
+		],
+		"豚レバー": [
+			"021_03.ogg"
+		],
+		"豚ロース": [
+			"021_04.ogg"
+		],
+		"豚バラ": [
+			"021_05.ogg"
+		],
+		"豚のひき肉": [
+			"021_06.ogg"
+		],
+		"豚足": [
+			"021_07.ogg"
+		],
+		"牛肩ロース": [
+			"021_08.ogg"
+		],
+		"牛タン": [
+			"021_09.ogg"
+		],
+		"リブロース": [
+			"021_10.ogg"
+		],
+		"サーロイン": [
+			"021_11.ogg"
+		],
+		"ランプ": [
+			"021_12.ogg"
+		],
+		"ミノ": [
+			"021_13.ogg"
+		],
+		"牛カルビ": [
+			"021_14.ogg"
+		],
+		"手羽先": [
+			"021_15.ogg"
+		],
+		"手羽元": [
+			"021_16.ogg"
+		],
+		"砂肝": [
+			"021_17.ogg"
+		],
+		"鶏皮": [
+			"021_18.ogg"
+		],
+		"ササミ": [
+			"021_19.ogg"
+		],
+		"鴨肉": [
+			"021_20.ogg"
+		],
+		"マトン": [
+			"021_21.ogg"
+		],
+		"ラム": [
+			"021_22.ogg"
+		],
+		"合い挽き肉": [
+			"021_23.ogg"
+		],
+		"七面鳥": [
+			"021_24.ogg"
+		],
+		"鹿肉": [
+			"021_25.ogg"
+		],
+		"ソーセージ": [
+			"021_26.ogg"
+		],
+		"ベーコン": [
+			"021_27.ogg"
+		],
+		"ハム": [
+			"021_28.ogg"
+		],
+		"コンビーフ": [
+			"021_29.ogg"
+		],
+		"ビーフジャーキー": [
+			"021_30.ogg"
+		],
+		"サラミ": [
+			"021_31.ogg"
+		],
+		"チキンナゲット": [
+			"021_32.ogg"
 		]
 	},
 	"files": {
@@ -590,6 +686,166 @@
 		"019_36.ogg": {
 			"kana_reading": "ミョウガ",
 			"pitch_pattern": "ミョウガ",
+			"pitch_number": "1"
+		},
+		"021_01.ogg": {
+			"kana_reading": "ブタヒレニク",
+			"pitch_pattern": "ブタヒレニク",
+			"pitch_number": "1"
+		},
+		"021_02.ogg": {
+			"kana_reading": "ブタモモニク",
+			"pitch_pattern": "ブタモモニク",
+			"pitch_number": "1"
+		},
+		"021_03.ogg": {
+			"kana_reading": "ブタレバー",
+			"pitch_pattern": "ブタレバー",
+			"pitch_number": "1"
+		},
+		"021_04.ogg": {
+			"kana_reading": "ブタロース",
+			"pitch_pattern": "ブタロース",
+			"pitch_number": "1"
+		},
+		"021_05.ogg": {
+			"kana_reading": "ブタバラ",
+			"pitch_pattern": "ブタバラ",
+			"pitch_number": "1"
+		},
+		"021_06.ogg": {
+			"kana_reading": "ブタノヒキニク",
+			"pitch_pattern": "ブタノヒキニク",
+			"pitch_number": "1"
+		},
+		"021_07.ogg": {
+			"kana_reading": "トンソク",
+			"pitch_pattern": "トンソク",
+			"pitch_number": "1"
+		},
+		"021_08.ogg": {
+			"kana_reading": "ギュウカタロース",
+			"pitch_pattern": "ギュウカタロース",
+			"pitch_number": "1"
+		},
+		"021_09.ogg": {
+			"kana_reading": "ギュウタン",
+			"pitch_pattern": "ギュウタン",
+			"pitch_number": "1"
+		},
+		"021_10.ogg": {
+			"kana_reading": "リブロース",
+			"pitch_pattern": "リブロース",
+			"pitch_number": "1"
+		},
+		"021_11.ogg": {
+			"kana_reading": "サーロイン",
+			"pitch_pattern": "サーロイン",
+			"pitch_number": "1"
+		},
+		"021_12.ogg": {
+			"kana_reading": "ランプ",
+			"pitch_pattern": "ランプ",
+			"pitch_number": "1"
+		},
+		"021_13.ogg": {
+			"kana_reading": "ミノ",
+			"pitch_pattern": "ミノ",
+			"pitch_number": "1"
+		},
+		"021_14.ogg": {
+			"kana_reading": "ギュウカルビ",
+			"pitch_pattern": "ギュウカルビ",
+			"pitch_number": "1"
+		},
+		"021_15.ogg": {
+			"kana_reading": "テバサキ",
+			"pitch_pattern": "テバサキ",
+			"pitch_number": "1"
+		},
+		"021_16.ogg": {
+			"kana_reading": "テバモト",
+			"pitch_pattern": "テバモト",
+			"pitch_number": "1"
+		},
+		"021_17.ogg": {
+			"kana_reading": "スナギモ",
+			"pitch_pattern": "スナギモ",
+			"pitch_number": "1"
+		},
+		"021_18.ogg": {
+			"kana_reading": "トリカワ",
+			"pitch_pattern": "トリカワ",
+			"pitch_number": "1"
+		},
+		"021_19.ogg": {
+			"kana_reading": "ササミ",
+			"pitch_pattern": "ササミ",
+			"pitch_number": "1"
+		},
+		"021_20.ogg": {
+			"kana_reading": "カモニク",
+			"pitch_pattern": "カモニク",
+			"pitch_number": "1"
+		},
+		"021_21.ogg": {
+			"kana_reading": "マトン",
+			"pitch_pattern": "マトン",
+			"pitch_number": "1"
+		},
+		"021_22.ogg": {
+			"kana_reading": "ラム",
+			"pitch_pattern": "ラム",
+			"pitch_number": "1"
+		},
+		"021_23.ogg": {
+			"kana_reading": "アイビキニク",
+			"pitch_pattern": "アイビキニク",
+			"pitch_number": "1"
+		},
+		"021_24.ogg": {
+			"kana_reading": "シチメンチョウ",
+			"pitch_pattern": "シチメンチョウ",
+			"pitch_number": "1"
+		},
+		"021_25.ogg": {
+			"kana_reading": "シカニク",
+			"pitch_pattern": "シカニク",
+			"pitch_number": "1"
+		},
+		"021_26.ogg": {
+			"kana_reading": "ソーセージ",
+			"pitch_pattern": "ソーセージ",
+			"pitch_number": "1"
+		},
+		"021_27.ogg": {
+			"kana_reading": "ベーコン",
+			"pitch_pattern": "ベーコン",
+			"pitch_number": "1"
+		},
+		"021_28.ogg": {
+			"kana_reading": "ハム",
+			"pitch_pattern": "ハム",
+			"pitch_number": "1"
+		},
+		"021_29.ogg": {
+			"kana_reading": "コンビーフ",
+			"pitch_pattern": "コンビーフ",
+			"pitch_number": "1"
+		},
+		"021_30.ogg": {
+			"kana_reading": "ビーフジャーキー",
+			"pitch_pattern": "ビーフジャーキー",
+			"pitch_number": "1"
+		},
+		"021_31.ogg": {
+			"kana_reading": "サラミ",
+			"pitch_pattern": "サラミ",
+			"pitch_number": "1"
+		},
+		"021_32.ogg": {
+			"kana_reading": "チキンナゲット",
+			"pitch_pattern": "チキンナゲット",
 			"pitch_number": "1"
 		}
 	}
