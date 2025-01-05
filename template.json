@@ -1,0 +1,21 @@
+{
+	"meta": {
+		"name": "Template only. Enter source name",
+		"year": 2025,
+		"version": 1,
+		"media_dir": "media"
+	},
+	"headwords": {
+		"なまえ": [
+			"filename.ogg"
+		],
+		""
+	},
+	"files": {
+		"filename.ogg": {
+			"kana_reading": "ナマエ",
+			"pitch_pattern": "ナメ＼エ-",
+			"pitch_number": "2"
+		}
+	}
+}
