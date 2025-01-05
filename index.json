@@ -116,6 +116,114 @@
 		],
 		"ライチ": [
 			"017_37.ogg"
+		],
+		"チンゲン菜": [
+			"019_01.ogg"
+		],
+		"キャベツ": [
+			"019_02.ogg"
+		],
+		"レタス": [
+			"019_03.ogg"
+		],
+		"ニラ": [
+			"019_04.ogg"
+		],
+		"ほうれん草": [
+			"019_05.ogg"
+		],
+		"白菜": [
+			"019_06.ogg"
+		],
+		"水菜": [
+			"019_07.ogg"
+		],
+		"サツマイモ": [
+			"019_08.ogg"
+		],
+		"ニンニク": [
+			"019_09.ogg"
+		],
+		"レンコン": [
+			"019_10.ogg"
+		],
+		"ゴボウ": [
+			"019_11.ogg"
+		],
+		"玉ねぎ": [
+			"019_12.ogg"
+		],
+		"人参": [
+			"019_13.ogg"
+		],
+		"大根": [
+			"019_14.ogg"
+		],
+		"生姜": [
+			"019_15.ogg"
+		],
+		"カボチャ": [
+			"019_16.ogg"
+		],
+		"ナス": [
+			"019_17.ogg"
+		],
+		"キュウリ": [
+			"019_18.ogg"
+		],
+		"ピーマン": [
+			"019_19.ogg"
+		],
+		"大豆": [
+			"019_20.ogg"
+		],
+		"枝豆": [
+			"019_21.ogg"
+		],
+		"さやえんどう": [
+			"019_22.ogg"
+		],
+		"インゲン豆": [
+			"019_23.ogg"
+		],
+		"松茸": [
+			"019_24.ogg"
+		],
+		"椎茸": [
+			"019_25.ogg"
+		],
+		"舞茸": [
+			"019_26.ogg"
+		],
+		"エリンギ": [
+			"019_27.ogg"
+		],
+		"しめじ": [
+			"019_28.ogg"
+		],
+		"きくらげ": [
+			"019_29.ogg"
+		],
+		"えのき茸": [
+			"019_30.ogg"
+		],
+		"セロリ": [
+			"019_31.ogg"
+		],
+		"アスパラガス": [
+			"019_32.ogg"
+		],
+		"たけのこ": [
+			"019_33.ogg"
+		],
+		"カリフラワー": [
+			"019_34.ogg"
+		],
+		"ブロッコリー": [
+			"019_35.ogg"
+		],
+		"ミョウガ": [
+			"019_36.ogg"
 		]
 	},
 	"files": {
@@ -302,6 +410,186 @@
 		"017_37.ogg": {
 			"kana_reading": "ライチ",
 			"pitch_pattern": "ライチ",
+			"pitch_number": "1"
+		},
+		"019_01.ogg": {
+			"kana_reading": "チンゲンサイ",
+			"pitch_pattern": "チンゲンサイ",
+			"pitch_number": "1"
+		},
+		"019_02.ogg": {
+			"kana_reading": "キャベツ",
+			"pitch_pattern": "キャベツ",
+			"pitch_number": "1"
+		},
+		"019_03.ogg": {
+			"kana_reading": "レタス",
+			"pitch_pattern": "レタス",
+			"pitch_number": "1"
+		},
+		"019_04.ogg": {
+			"kana_reading": "ニラ",
+			"pitch_pattern": "ニラ",
+			"pitch_number": "1"
+		},
+		"019_05.ogg": {
+			"kana_reading": "ホウレンソウ",
+			"pitch_pattern": "ホウレンソウ",
+			"pitch_number": "1"
+		},
+		"019_06.ogg": {
+			"kana_reading": "ハクサイ",
+			"pitch_pattern": "ハクサイ",
+			"pitch_number": "1"
+		},
+		"019_07.ogg": {
+			"kana_reading": "ミズナ",
+			"pitch_pattern": "ミズナ",
+			"pitch_number": "1"
+		},
+		"019_08.ogg": {
+			"kana_reading": "サツマイモ",
+			"pitch_pattern": "サツマイモ",
+			"pitch_number": "1"
+		},
+		"019_09.ogg": {
+			"kana_reading": "ニンニク",
+			"pitch_pattern": "ニンニク",
+			"pitch_number": "1"
+		},
+		"019_10.ogg": {
+			"kana_reading": "レンコン",
+			"pitch_pattern": "レンコン",
+			"pitch_number": "1"
+		},
+		"019_11.ogg": {
+			"kana_reading": "ゴボウ",
+			"pitch_pattern": "ゴボウ",
+			"pitch_number": "1"
+		},
+		"019_12.ogg": {
+			"kana_reading": "タマネギ",
+			"pitch_pattern": "タマネギ",
+			"pitch_number": "1"
+		},
+		"019_13.ogg": {
+			"kana_reading": "ニンジン",
+			"pitch_pattern": "ニンジン",
+			"pitch_number": "1"
+		},
+		"019_14.ogg": {
+			"kana_reading": "ダイコン",
+			"pitch_pattern": "ダイコン",
+			"pitch_number": "1"
+		},
+		"019_15.ogg": {
+			"kana_reading": "ショウガ",
+			"pitch_pattern": "ショウガ",
+			"pitch_number": "1"
+		},
+		"019_16.ogg": {
+			"kana_reading": "カボチャ",
+			"pitch_pattern": "カボチャ",
+			"pitch_number": "1"
+		},
+		"019_17.ogg": {
+			"kana_reading": "ナス",
+			"pitch_pattern": "ナス",
+			"pitch_number": "1"
+		},
+		"019_18.ogg": {
+			"kana_reading": "キュウリ",
+			"pitch_pattern": "キュウリ",
+			"pitch_number": "1"
+		},
+		"019_19.ogg": {
+			"kana_reading": "ピーマン",
+			"pitch_pattern": "ピーマン",
+			"pitch_number": "1"
+		},
+		"019_20.ogg": {
+			"kana_reading": "ダイズ",
+			"pitch_pattern": "ダイズ",
+			"pitch_number": "1"
+		},
+		"019_21.ogg": {
+			"kana_reading": "エダマメ",
+			"pitch_pattern": "エダマメ",
+			"pitch_number": "1"
+		},
+		"019_22.ogg": {
+			"kana_reading": "サヤエンドウ",
+			"pitch_pattern": "サヤエンドウ",
+			"pitch_number": "1"
+		},
+		"019_23.ogg": {
+			"kana_reading": "インゲンマメ",
+			"pitch_pattern": "インゲンマメ",
+			"pitch_number": "1"
+		},
+		"019_24.ogg": {
+			"kana_reading": "マツタケ",
+			"pitch_pattern": "マツタケ",
+			"pitch_number": "1"
+		},
+		"019_25.ogg": {
+			"kana_reading": "シイタケ",
+			"pitch_pattern": "シイタケ",
+			"pitch_number": "1"
+		},
+		"019_26.ogg": {
+			"kana_reading": "マイタケ",
+			"pitch_pattern": "マイタケ",
+			"pitch_number": "1"
+		},
+		"019_27.ogg": {
+			"kana_reading": "エリンギ",
+			"pitch_pattern": "エリンギ",
+			"pitch_number": "1"
+		},
+		"019_28.ogg": {
+			"kana_reading": "シメジ",
+			"pitch_pattern": "シメジ",
+			"pitch_number": "1"
+		},
+		"019_29.ogg": {
+			"kana_reading": "キクラゲ",
+			"pitch_pattern": "キクラゲ",
+			"pitch_number": "1"
+		},
+		"019_30.ogg": {
+			"kana_reading": "エノキタケ",
+			"pitch_pattern": "エノキタケ",
+			"pitch_number": "1"
+		},
+		"019_31.ogg": {
+			"kana_reading": "セロリ",
+			"pitch_pattern": "セロリ",
+			"pitch_number": "1"
+		},
+		"019_32.ogg": {
+			"kana_reading": "アスパラガス",
+			"pitch_pattern": "アスパラガス",
+			"pitch_number": "1"
+		},
+		"019_33.ogg": {
+			"kana_reading": "タケノコ",
+			"pitch_pattern": "タケノコ",
+			"pitch_number": "1"
+		},
+		"019_34.ogg": {
+			"kana_reading": "カリフラワー",
+			"pitch_pattern": "カリフラワー",
+			"pitch_number": "1"
+		},
+		"019_35.ogg": {
+			"kana_reading": "ブロッコリー",
+			"pitch_pattern": "ブロッコリー",
+			"pitch_number": "1"
+		},
+		"019_36.ogg": {
+			"kana_reading": "ミョウガ",
+			"pitch_pattern": "ミョウガ",
 			"pitch_number": "1"
 		}
 	}
