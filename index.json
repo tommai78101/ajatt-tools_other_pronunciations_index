@@ -320,6 +320,105 @@
 		],
 		"チキンナゲット": [
 			"021_32.ogg"
+		],
+		"鰻": [
+			"023_01.ogg"
+		],
+		"鮎": [
+			"023_02.ogg"
+		],
+		"鯉": [
+			"023_03.ogg"
+		],
+		"ナマズ": [
+			"023_04.ogg"
+		],
+		"マス": [
+			"023_05.ogg"
+		],
+		"メダカ": [
+			"023_06.ogg"
+		],
+		"チョウザメ": [
+			"023_07.ogg"
+		],
+		"ブラックバス": [
+			"023_08.ogg"
+		],
+		"鱈": [
+			"023_09.ogg"
+		],
+		"鮭": [
+			"023_10.ogg"
+		],
+		"ヒラメ": [
+			"023_11.ogg"
+		],
+		"イワシ": [
+			"023_12.ogg"
+		],
+		"マグロ": [
+			"023_13.ogg"
+		],
+		"アンチョビ": [
+			"023_14.ogg"
+		],
+		"メカジキ": [
+			"023_15.ogg"
+		],
+		"ロブスター": [
+			"023_16.ogg"
+		],
+		"カニ": [
+			"023_17.ogg"
+		],
+		"エビ": [
+			"023_18.ogg"
+		],
+		"車エビ": [
+			"023_19.ogg"
+		],
+		"ザリガニ": [
+			"023_20.ogg"
+		],
+		"ズワイガニ": [
+			"023_21.ogg"
+		],
+		"イカ": [
+			"023_22.ogg"
+		],
+		"タコ": [
+			"023_23.ogg"
+		],
+		"ナマコ": [
+			"023_24.ogg"
+		],
+		"クラゲ": [
+			"023_25.ogg"
+		],
+		"コウイカ": [
+			"023_26.ogg"
+		],
+		"牡蠣": [
+			"023_27.ogg"
+		],
+		"ホタテ貝": [
+			"023_28.ogg"
+		],
+		"ハマグリ": [
+			"023_29.ogg"
+		],
+		"アサリ": [
+			"023_30.ogg"
+		],
+		"わかめ": [
+			"023_31.ogg"
+		],
+		"ウニ": [
+			"023_32.ogg"
+		],
+		"キャビア": [
+			"023_33.ogg"
 		]
 	},
 	"files": {
@@ -846,6 +945,171 @@
 		"021_32.ogg": {
 			"kana_reading": "チキンナゲット",
 			"pitch_pattern": "チキンナゲット",
+			"pitch_number": "1"
+		},
+		"023_01.ogg": {
+			"kana_reading": "ウナギ",
+			"pitch_pattern": "ウナギ",
+			"pitch_number": "1"
+		},
+		"023_02.ogg": {
+			"kana_reading": "アユ",
+			"pitch_pattern": "アユ",
+			"pitch_number": "1"
+		},
+		"023_03.ogg": {
+			"kana_reading": "コイ",
+			"pitch_pattern": "コイ",
+			"pitch_number": "1"
+		},
+		"023_04.ogg": {
+			"kana_reading": "ナマズ",
+			"pitch_pattern": "ナマズ",
+			"pitch_number": "1"
+		},
+		"023_05.ogg": {
+			"kana_reading": "マス",
+			"pitch_pattern": "マス",
+			"pitch_number": "1"
+		},
+		"023_06.ogg": {
+			"kana_reading": "メダカ",
+			"pitch_pattern": "メダカ",
+			"pitch_number": "1"
+		},
+		"023_07.ogg": {
+			"kana_reading": "チョウザメ",
+			"pitch_pattern": "チョウザメ",
+			"pitch_number": "1"
+		},
+		"023_08.ogg": {
+			"kana_reading": "ブラックバス",
+			"pitch_pattern": "ブラックバス",
+			"pitch_number": "1"
+		},
+		"023_09.ogg": {
+			"kana_reading": "タラ",
+			"pitch_pattern": "タラ",
+			"pitch_number": "1"
+		},
+		"023_10.ogg": {
+			"kana_reading": "サケ",
+			"pitch_pattern": "サケ",
+			"pitch_number": "1"
+		},
+		"023_11.ogg": {
+			"kana_reading": "ヒラメ",
+			"pitch_pattern": "ヒラメ",
+			"pitch_number": "1"
+		},
+		"023_12.ogg": {
+			"kana_reading": "イワシ",
+			"pitch_pattern": "イワシ",
+			"pitch_number": "1"
+		},
+		"023_13.ogg": {
+			"kana_reading": "マグロ",
+			"pitch_pattern": "マグロ",
+			"pitch_number": "1"
+		},
+		"023_14.ogg": {
+			"kana_reading": "アンチョビ",
+			"pitch_pattern": "アンチョビ",
+			"pitch_number": "1"
+		},
+		"023_15.ogg": {
+			"kana_reading": "メカジキ",
+			"pitch_pattern": "メカジキ",
+			"pitch_number": "1"
+		},
+		"023_16.ogg": {
+			"kana_reading": "ロビスター",
+			"pitch_pattern": "ロビスター",
+			"pitch_number": "1"
+		},
+		"023_17.ogg": {
+			"kana_reading": "カニ",
+			"pitch_pattern": "カニ",
+			"pitch_number": "1"
+		},
+		"023_18.ogg": {
+			"kana_reading": "エビ",
+			"pitch_pattern": "エビ",
+			"pitch_number": "1"
+		},
+		"023_19.ogg": {
+			"kana_reading": "クルマエビ",
+			"pitch_pattern": "クルマエビ",
+			"pitch_number": "1"
+		},
+		"023_20.ogg": {
+			"kana_reading": "ザリガニ",
+			"pitch_pattern": "ザリガニ",
+			"pitch_number": "1"
+		},
+		"023_21.ogg": {
+			"kana_reading": "ズワイガニ",
+			"pitch_pattern": "ズワイガニ",
+			"pitch_number": "1"
+		},
+		"023_22.ogg": {
+			"kana_reading": "イカ",
+			"pitch_pattern": "イカ",
+			"pitch_number": "1"
+		},
+		"023_23.ogg": {
+			"kana_reading": "タコ",
+			"pitch_pattern": "タコ",
+			"pitch_number": "1"
+		},
+		"023_24.ogg": {
+			"kana_reading": "ナマコ",
+			"pitch_pattern": "ナマコ",
+			"pitch_number": "1"
+		},
+		"023_25.ogg": {
+			"kana_reading": "クラゲ",
+			"pitch_pattern": "クラゲ",
+			"pitch_number": "1"
+		},
+		"023_26.ogg": {
+			"kana_reading": "コウイカ",
+			"pitch_pattern": "コウイカ",
+			"pitch_number": "1"
+		},
+		"023_27.ogg": {
+			"kana_reading": "カキ",
+			"pitch_pattern": "カキ",
+			"pitch_number": "1"
+		},
+		"023_28.ogg": {
+			"kana_reading": "ホタテガイ",
+			"pitch_pattern": "ホタテガイ",
+			"pitch_number": "1"
+		},
+		"023_29.ogg": {
+			"kana_reading": "ハマグリ",
+			"pitch_pattern": "ハマグリ",
+			"pitch_number": "1"
+		},
+		"023_30.ogg": {
+			"kana_reading": "アサリ",
+			"pitch_pattern": "アサリ",
+			"pitch_number": "1"
+		},
+		"023_31.ogg": {
+			"kana_reading": "ワカメ",
+			"pitch_pattern": "ワカメ",
+			"pitch_number": "1"
+		},
+		"023_32.ogg": {
+			"kana_reading": "ウニ",
+			"pitch_pattern": "ウニ",
+			"pitch_number": "1"
+		},
+		"023_33.ogg": {
+			"kana_reading": "キャビア",
+			"pitch_pattern": "キャビア",
 			"pitch_number": "1"
 		}
 	}
