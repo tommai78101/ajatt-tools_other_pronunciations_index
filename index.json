@@ -419,6 +419,99 @@
 		],
 		"キャビア": [
 			"023_33.ogg"
+		],
+		"チーズケーキ": [
+			"025_01.ogg"
+		],
+		"カップケーキ": [
+			"025_02.ogg"
+		],
+		"ロールケーキ": [
+			"025_03.ogg"
+		],
+		"ブラウニー": [
+			"025_04.ogg"
+		],
+		"モンブラン": [
+			"025_05.ogg"
+		],
+		"ティラミス": [
+			"025_06.ogg"
+		],
+		"チョコチップクッキー": [
+			"025_07.ogg"
+		],
+		"ビスケット": [
+			"025_08.ogg"
+		],
+		"サブレー": [
+			"025_09.ogg"
+		],
+		"マカロン": [
+			"025_10.ogg"
+		],
+		"ラスク": [
+			"025_11.ogg"
+		],
+		"オレオ": [
+			"025_12.ogg"
+		],
+		"カステラ": [
+			"025_13.ogg"
+		],
+		"どら焼き": [
+			"025_14.ogg"
+		],
+		"みたらし団子": [
+			"025_15.ogg"
+		],
+		"羊羹": [
+			"025_16.ogg"
+		],
+		"苺大福": [
+			"025_17.ogg"
+		],
+		"わらび餅": [
+			"025_18.ogg"
+		],
+		"アイスクリーム": [
+			"025_19.ogg"
+		],
+		"ソフトクリーム": [
+			"025_20.ogg"
+		],
+		"シャーベット": [
+			"025_21.ogg"
+		],
+		"ジェラート": [
+			"025_22.ogg"
+		],
+		"かき氷": [
+			"025_23.ogg"
+		],
+		"アイスキャンヂィー": [
+			"025_24.ogg"
+		],
+		"フローズンヨーグルト": [
+			"025_25.ogg"
+		],
+		"クレームブリュレ": [
+			"025_26.ogg"
+		],
+		"プリン": [
+			"025_27.ogg"
+		],
+		"シュークリーム": [
+			"025_28.ogg"
+		],
+		"エクレア": [
+			"025_29.ogg"
+		],
+		"アップルパイ": [
+			"025_30.ogg"
+		],
+		"エッグタルト": [
+			"025_31.ogg"
 		]
 	},
 	"files": {
@@ -1110,6 +1203,161 @@
 		"023_33.ogg": {
 			"kana_reading": "キャビア",
 			"pitch_pattern": "キャビア",
+			"pitch_number": "1"
+		},
+		"025_01.ogg": {
+			"kana_reading": "チーズケーキ",
+			"pitch_pattern": "チーズケーキ",
+			"pitch_number": "1"
+		},
+		"025_02.ogg": {
+			"kana_reading": "カップケーキ",
+			"pitch_pattern": "カップケーキ",
+			"pitch_number": "1"
+		},
+		"025_03.ogg": {
+			"kana_reading": "ロールケーキ",
+			"pitch_pattern": "ロールケーキ",
+			"pitch_number": "1"
+		},
+		"025_04.ogg": {
+			"kana_reading": "ブラウニー",
+			"pitch_pattern": "ブラウニー",
+			"pitch_number": "1"
+		},
+		"025_05.ogg": {
+			"kana_reading": "モンブラン",
+			"pitch_pattern": "モンブラン",
+			"pitch_number": "1"
+		},
+		"025_06.ogg": {
+			"kana_reading": "ティラミス",
+			"pitch_pattern": "ティラミス",
+			"pitch_number": "1"
+		},
+		"025_07.ogg": {
+			"kana_reading": "チョコチップクッキー",
+			"pitch_pattern": "チョコチップクッキー",
+			"pitch_number": "1"
+		},
+		"025_08.ogg": {
+			"kana_reading": "ビスケット",
+			"pitch_pattern": "ビスケット",
+			"pitch_number": "1"
+		},
+		"025_09.ogg": {
+			"kana_reading": "サブレー",
+			"pitch_pattern": "サブレー",
+			"pitch_number": "1"
+		},
+		"025_10.ogg": {
+			"kana_reading": "マカロン",
+			"pitch_pattern": "マカロン",
+			"pitch_number": "1"
+		},
+		"025_11.ogg": {
+			"kana_reading": "ラスク",
+			"pitch_pattern": "ラスク",
+			"pitch_number": "1"
+		},
+		"025_12.ogg": {
+			"kana_reading": "オレオ",
+			"pitch_pattern": "オレオ",
+			"pitch_number": "1"
+		},
+		"025_13.ogg": {
+			"kana_reading": "カステラ",
+			"pitch_pattern": "カステラ",
+			"pitch_number": "1"
+		},
+		"025_14.ogg": {
+			"kana_reading": "ドラヤキ",
+			"pitch_pattern": "ドラヤキ",
+			"pitch_number": "1"
+		},
+		"025_15.ogg": {
+			"kana_reading": "ミタラシタンゴ",
+			"pitch_pattern": "ミタラシタンゴ",
+			"pitch_number": "1"
+		},
+		"025_16.ogg": {
+			"kana_reading": "ヨウカン",
+			"pitch_pattern": "ヨウカン",
+			"pitch_number": "1"
+		},
+		"025_17.ogg": {
+			"kana_reading": "イチゴダイフク",
+			"pitch_pattern": "イチゴダイフク",
+			"pitch_number": "1"
+		},
+		"025_18.ogg": {
+			"kana_reading": "ワラビモチ",
+			"pitch_pattern": "ワラビモチ",
+			"pitch_number": "1"
+		},
+		"025_19.ogg": {
+			"kana_reading": "アイスクリーム",
+			"pitch_pattern": "アイスクリーム",
+			"pitch_number": "1"
+		},
+		"025_20.ogg": {
+			"kana_reading": "ソフトクリーム",
+			"pitch_pattern": "ソフトクリーム",
+			"pitch_number": "1"
+		},
+		"025_21.ogg": {
+			"kana_reading": "シャーベット",
+			"pitch_pattern": "シャーベット",
+			"pitch_number": "1"
+		},
+		"025_22.ogg": {
+			"kana_reading": "ジェラート",
+			"pitch_pattern": "ジェラート",
+			"pitch_number": "1"
+		},
+		"025_23.ogg": {
+			"kana_reading": "カキゴオリ",
+			"pitch_pattern": "カキゴオリ",
+			"pitch_number": "1"
+		},
+		"025_24.ogg": {
+			"kana_reading": "アイスキャンヂィー",
+			"pitch_pattern": "アイスキャンヂィー",
+			"pitch_number": "1"
+		},
+		"025_25.ogg": {
+			"kana_reading": "フローズンヨーグルト",
+			"pitch_pattern": "フローズンヨーグルト",
+			"pitch_number": "1"
+		},
+		"025_26.ogg": {
+			"kana_reading": "クレームブリュレ",
+			"pitch_pattern": "クレームブリュレ",
+			"pitch_number": "1"
+		},
+		"025_27.ogg": {
+			"kana_reading": "プリン",
+			"pitch_pattern": "プリン",
+			"pitch_number": "1"
+		},
+		"025_28.ogg": {
+			"kana_reading": "シュークリーム",
+			"pitch_pattern": "シュークリーム",
+			"pitch_number": "1"
+		},
+		"025_29.ogg": {
+			"kana_reading": "エクレア",
+			"pitch_pattern": "エクレア",
+			"pitch_number": "1"
+		},
+		"025_30.ogg": {
+			"kana_reading": "アップルパイ",
+			"pitch_pattern": "アップルパイ",
+			"pitch_number": "1"
+		},
+		"025_31.ogg": {
+			"kana_reading": "エッグタルト",
+			"pitch_pattern": "エッグタルト",
 			"pitch_number": "1"
 		}
 	}
